@@ -1,4 +1,4 @@
-package sdksample.drivit.com.dokkatest
+package sdksample.dokkatest
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -7,6 +7,7 @@ import android.view.Menu
 import android.view.MenuItem
 
 import kotlinx.android.synthetic.main.activity_main.*
+import sdksample.dokkatest.R
 
 class MainActivity : AppCompatActivity() {
 

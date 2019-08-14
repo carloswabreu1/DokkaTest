@@ -1,4 +1,4 @@
-package sdksample.drivit.com.dokkatest;
+package sdksample.dokkatest;
 
 public class JavaTest {
 
