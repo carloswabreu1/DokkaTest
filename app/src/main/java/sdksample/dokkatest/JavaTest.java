@@ -7,7 +7,7 @@ public class JavaTest {
     }
 
     /**
-     * @supress
+     * @hide
      */
     public void method3() {
 
